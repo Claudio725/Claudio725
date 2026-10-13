@@ -25,7 +25,6 @@ Foco total em entrega de valor, performance, código limpo e arquiteturas escal�
 
 . Histórico comprovado na entrega de aplicações de grande porte no ecossistema brasileiro (com destaque para produtos como Bíblia NVT e DayPay), combinando alta performance de interface, resiliência no consumo de APIs e segurança de dados.
 
-💬 Contato: cjsm_menezes@yahoo.com.br | (21) 99464-7174
 ---
 
 ## 💼 Meus Principais Projetos do Portfólio
@@ -56,6 +55,7 @@ Aqui estão alguns dos projetos em destaque que desenvolvi:
 * Consumo de Apis restful
 * Navegação inteligente dos processos de criação das remessas
 * Pagamento de remessas
+* Conversão monetária entre países (dólar, euro e real).
 
 ---
 
