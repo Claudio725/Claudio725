@@ -15,9 +15,10 @@ Foco total em entrega de valor, performance, código limpo e arquiteturas escal�
 • iOS Nativo: Swift, SwiftUI, UIKit, Swift Concurrency (async/await), Combine, Environment, GCD, Xcode, SPM, CocoaPods • Android Nativo: Kotlin, Android Studio • Arquitetura & Qualidade: MVVM, Clean Architecture, TDD, Testes Unitários, Clean Code • Integrações & Persistência: APIs RESTful, JSON, Kingfisher, Armazenamento Offline, Threading • Metodologias & Ferramentas: Git, CI/CD, Scrum, Kanban
 
 🎓 Formação: Pós-graduação em Desenvolvimento Mobile pelo Instituto Infnet.
+
 🎓 Formação: Graduação em Tecnólogo de Processamento de Dados pela Faculdade Fag-Sesat
 
-📍 Objetivo Atual: Oportunidades como Desenvolvedor iOS Sênior ou Mobile Developer Sênior (Presencial/Híbrido no Rio de Janeiro ou Remoto).
+📍 Objetivo Atual: Oportunidades como Desenvolvedor iOS Sênior ou Mobile Developer Sênior (Presencial/Híbrido no Rio de Janeiro ou Remoto). Aceito projetos sob demanda para novos clientes.
 
 . Uso de agentes de IA como Claude Code e Gemini para aceleração da escrita de testes unitários em TDD, geração de mocks e refatoração par Swift Concurrency.
 
